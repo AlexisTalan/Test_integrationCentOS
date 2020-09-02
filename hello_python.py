@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*-coding:Latin-1 -*
 # Author : Alexis FABBRO
 
 from time import sleep
